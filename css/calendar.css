@@ -1,6 +1,6 @@
-@import 'task.css';
-@import 'task-cell.css';
-@import 'calendar-day';
+@import "./task.css";
+@import "./task-cell.css";
+@import "./calendar-day";
 
 
 .calendar {
@@ -20,7 +20,3 @@
     
 }
 
-
-.calendar-day {
-
-}

@@ -1,3 +1,13 @@
 .calendarDay {
-    
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.calendarDay a {
+    border: 1px solid red;
+    text-decoration: none;
+    color: currentColor;
 }
