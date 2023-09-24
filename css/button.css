@@ -49,10 +49,10 @@
 
 .button.is-rounded {
     border-radius: 1.25rem;
-    color: var(--blue30);
+    color: var(--blue10);
 }
 
-.button.is-compact{
+.button.is-compact {
     border-radius: 50%;
     padding: .5rem;
 }
