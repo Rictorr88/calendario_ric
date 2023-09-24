@@ -26,7 +26,7 @@ body {
     background: var(--white);
 }
 
-/* @media screen and (prefers-color-scheme: dark) {
+@media screen and (prefers-color-scheme: dark) {
     :root {
         --gray50: #D09C34;
         --gray10: #fffffe;
@@ -34,4 +34,4 @@ body {
         --white: #222222;
         --blue10:#D09C34;
     }
-} */
+}
