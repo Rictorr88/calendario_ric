@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?ncfrct');
-  src:  url('fonts/icomoon.eot?ncfrct#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?ncfrct') format('truetype'),
-    url('fonts/icomoon.woff?ncfrct') format('woff'),
-    url('fonts/icomoon.svg?ncfrct#icomoon') format('svg');
+  src:  url('../fonts/icomoon.eot?s2gcsl');
+  src:  url('../fonts/icomoon.eot?s2gcsl#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?s2gcsl') format('truetype'),
+    url('../fonts/icomoon.woff?s2gcsl') format('woff'),
+    url('../fonts/icomoon.svg?s2gcsl#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -28,54 +28,54 @@
 .icon-calendar:before {
   content: "\e900";
 }
-.icon-Iconcheck:before {
+.icon-check:before {
   content: "\e901";
 }
-.icon-Iconcheck-square:before {
+.icon-checkSquare:before {
   content: "\e902";
 }
-.icon-Iconchevron-down:before {
+.icon-chevronDown:before {
   content: "\e903";
 }
-.icon-Iconchevron-left:before {
+.icon-chevronLeft:before {
   content: "\e904";
 }
-.icon-Iconchevron-right:before {
+.icon-chevronRight:before {
   content: "\e905";
 }
-.icon-Iconchevron-up:before {
+.icon-chevronUp:before {
   content: "\e906";
 }
-.icon-Iconclock:before {
+.icon-clock:before {
   content: "\e907";
 }
-.icon-Iconclose:before {
+.icon-close:before {
   content: "\e908";
 }
-.icon-Icongps:before {
+.icon-gps:before {
   content: "\e909";
 }
-.icon-Iconhamburguer-button:before {
+.icon-hamburguerButton:before {
   content: "\e90a";
 }
-.icon-Iconhelp-circle:before {
+.icon-helpCircle:before {
   content: "\e90b";
 }
-.icon-Iconplus:before {
+.icon-plus:before {
   content: "\e90c";
 }
-.icon-Iconsearch:before {
+.icon-search:before {
   content: "\e90d";
 }
-.icon-Iconsettings:before {
+.icon-settings:before {
   content: "\e90e";
 }
-.icon-Icontext:before {
+.icon-text:before {
   content: "\e90f";
 }
-.icon-Iconusers:before {
+.icon-users:before {
   content: "\e910";
 }
-.icon-Iconvideo:before {
+.icon-video:before {
   content: "\e911";
 }
