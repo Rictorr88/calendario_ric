@@ -398,5 +398,52 @@
             </div>
         </main>
     </div>
+    <dialog class="modal">
+        <form>
+            <div class="input">
+                <input required name="title" type="text" placeholder="Añade un titulo">
+            </div>
+            <div class="input">
+                <input type="date" name="date" required>
+            </div>
+            <div class="input">
+                <input type="time" name="time-start" required>
+            </div>
+            <div class="input">
+                <input type="time" name="time-end" required>
+            </div>
+            <div class="input">
+                <input type="text" list="guests" name="guests" placeholder="Agregar Invitados" required>
+                <datalist id="guests">
+                    <option value="Simi"></option>
+                    <option value="Vomistrin"></option>
+                    <option value="Chicre"></option>
+                    <option value="Neku"></option>
+                    <option value="Nek"></option>
+                </datalist>
+            </div>
+            <div class="input">
+                <input name="location" type="text" placeholder="Agregar Ubicacion">
+            </div>
+            <div class="input">
+                <input type="file" multiple>
+            </div>
+            <div class="input">
+                <textarea name="description" placeholder="Agregar descripcion" id="" cols="30" rows="10"></textarea>
+            </div>
+            <input type="submit">
+        </form>
+        <div class="modal-actions">
+            <button class="button">
+                Cancelar
+            </button>
+            <button class="button is-primary">
+                Guardar
+            </button>
+        </div>
+    </dialog>
+    <script>
+        document.querySelector('.modal').showModal()
+    </script>
 </body>
 </html>
