@@ -58,13 +58,13 @@
 }
 
 .button i {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     color: var(--gray50);
 }
 
 
 .button i, .button span {
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 
