@@ -28,10 +28,10 @@ body {
 
 @media screen and (prefers-color-scheme: dark) {
     :root {
-        --gray50: #D09C34;
-        --gray10: #fffffe;
-        --gray20: #D09C34;
-        --white: #222222;
-        --blue10:#D09C34;
+        --gray50: #e6e5e38c;
+        --gray10: #fffffe9d;
+        --gray20: #c5c5c4;
+        --white: #363535;
+        --blue10:#5a5a5a;
     }
 }

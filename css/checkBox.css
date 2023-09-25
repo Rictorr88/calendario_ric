@@ -1,0 +1,9 @@
+.checkBox {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.checkBox span {
+    font-size: var(--body1-regular);
+}

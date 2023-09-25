@@ -5,3 +5,8 @@
     align-items: flex-start;
     padding: 1.5rem;
 }
+
+
+.buttonPlus {
+    color: var(--blue10);
+}

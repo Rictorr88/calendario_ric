@@ -1,0 +1,15 @@
+.myCalendars {
+    inline-size: 100%;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.myCalendars span {
+    display: flex;
+    font: var(--body1-medium);
+    color: var(--gray30);
+}
+
+.myCalendars i {
+    font-size: 1.25rem;
+}
