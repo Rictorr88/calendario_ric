@@ -1,0 +1,16 @@
+.input-search {
+    display: flex;
+    border: none;
+    border-radius: 4px;
+    background: var(--Gray10, #F1F3F4);
+    width: 196px;
+    margin: .5rem;
+    outline: none;
+    overflow: hidden; 
+}
+
+.input-search i {
+    margin: auto;
+    padding-left: 1rem;
+    font: var(--gray50);
+}
